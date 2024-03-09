@@ -1,5 +1,5 @@
 # Hackathon-Ideas
-This repo provides hackathon ideas for those who might for searching for ideas on the hackathon day
+This repo provides hackathon ideas for those who might be searching for ideas on the hackathon day
 
 # 1) Shaking-based SOS
 ## Overview:
