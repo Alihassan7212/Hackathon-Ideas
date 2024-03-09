@@ -151,4 +151,7 @@ Gyroscope and Accelerometer-Based Security introduces a unique security layer fo
 - **Military Applications:** Addresses the need for secure mobile devices in military and sensitive environments.
 - **User-Friendly:** Requires no active input from the user and operates seamlessly in the background.
 
+## Novelty:
+Traditional security methods, such as facial recognition and fingerprint scanning, while effective, face challenges posed by evolving technologies like deepfakes and advanced biometric replication techniques. Gyroscope and Accelerometer-Based Security introduces a novel and resilient security paradigm that goes beyond these conventional methods. By tapping into the user's natural, subconscious gestures and phone handling habits, the system establishes a unique and difficult-to-replicate behavioral biometric. This innovative approach not only enhances security but also mitigates the risks associated with emerging threats, making it a pioneering solution in the realm of mobile device security.
+
 
